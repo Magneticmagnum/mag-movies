@@ -38,6 +38,7 @@ mag-movies
 <li>[ ] Blue Brothers </li>
 <li>[ ] Three Amigos </li>
 <li>[ ] The Jerk </li>
+<li>[ ] White men can't jump </li>
 </ul>
 
 
