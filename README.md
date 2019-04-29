@@ -34,8 +34,7 @@ mag-movies
 <li>[ ] The Machinist </li>
 <li>[ ] snatch</li>
 <li>[x] Lock stock and two smoking barrels</li>
-<li>[ ] Serial Mom </li>
-<li>[ ] Blue Brothers </li>
+<li>[ ] Blues Brothers </li>
 <li>[ ] Three Amigos </li>
 <li>[ ] The Jerk </li>
 <li>[ ] White men can't jump </li>
