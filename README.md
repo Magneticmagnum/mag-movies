@@ -4,7 +4,7 @@ mag-movies
 <li>[x] Tommy Boy</li>
 <li>[ ] Joe Dirt</li>
 <li>[ ] Black Sheep</li>
-<li>[ ] Caddyshack</li>
+<li>[x] Caddyshack</li>
 <li>[x] role models</li>
 <li>[ ] old school (2003)</li>
 <li>[ ] forgetting sarah marshall</li>
